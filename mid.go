@@ -1,9 +1,9 @@
 package mid
 
 import (
-	mcd "github.com/hgfgdsy/multimodule/cmd"
+	"github.com/hgfgdsy/multimodule/cmd/sub"
 )
 
 func Midfunc(){
-	mcd.Est()
+	sub.Miss()
 }
